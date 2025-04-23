@@ -14,7 +14,7 @@
   "leader": {"title": "Leader", "description": "reach top 5 in any leaderboard", "is_hidden": false, "category": "Cat Hunt"},
   "dark_market": {"title": "Shady Corner", "description": "follow the shadow", "is_hidden": true, "category": "Cat Hunt"},
   "news": {"title": "That's quite new", "description": "read the news", "is_hidden": false, "category": "Cat Hunt"},
-  "boosted": {"title": "Boosted", "description": "get boosted by a prism", "is_hidden": false, "category": "Cat Hunt"},
+  "boosted": {"title": "Boosted", "description": "get boosted by an Emmy", "is_hidden": false, "category": "Cat Hunt"},
 
   "randomizer": {"title": "Randomizer", "description": "look at a random cat", "is_hidden": false, "category": "Commands"},
   "daily": {"title": "Daily Catter", "description": "get daily cats", "is_hidden": false, "category": "Commands"},
