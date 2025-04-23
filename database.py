@@ -96,7 +96,7 @@ class Profile(peewee.Model):
 
     battlepass = peewee.SmallIntegerField(default=0)  # battlepass level
     progress = peewee.SmallIntegerField(default=0)  # battlepass progress (in xp)
-    season = peewee.SmallIntegerField(default=0)  # if this doesnt match current season it will reset everything
+    season = peewee.SmallIntegerField(default=4)  # if this doesnt match current season it will reset everything
 
     # battelpass quests fields
     vote_reward = peewee.SmallIntegerField(default=0)
@@ -144,7 +144,6 @@ class Profile(peewee.Model):
     pack_upgrades = peewee.IntegerField(default=0)  # amount of pack upgrades
     new_user = peewee.BooleanField(default=True)  # whether the user is new
 
-    puzzle_pieces = peewee.IntegerField(default=0)  # amount of puzzle pieces collected for birthday 2025 event
 
     # thanks chatgpt
     # cat types
