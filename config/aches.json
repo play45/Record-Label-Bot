@@ -50,6 +50,7 @@
   "morse_cat": {"title": "Sr. Morse", "description": "-. --- ... / .-.. .- ..- -.. --- / .-. . -.-. --- .-. -.. / -... --- -", "is_hidden": false, "category": "Silly"},
   "ttt_win": {"title": "Pro Tic-Tac-Toer", "description": "win a game of tic tac toe", "is_hidden": false, "category": "Silly"},
   "last_sept": {"title": "Last September", "description": "Do you know who I was...? last September?","is_hidden": false, "category": "Silly"},
+  "Natalie!": {"title": "We love Natalie", "description": "we all say in unison","is_hidden": false, "category": "Silly"},
 
   "lucky": {"title": "Lucky", "description": "0.1% chance you get it each time you catch a cat", "is_hidden": true, "category": "Hard"},
   "gambling_two": {"title": "GOD DANGIT", "description": "gamble 50 times", "is_hidden": true, "category": "Hard"},
