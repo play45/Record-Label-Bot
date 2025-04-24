@@ -47,8 +47,9 @@
   "secret": {"title": "Tax Fraud", "description": "evade paying your taxes", "is_hidden": true, "category": "Silly"},
   "good_citizen": {"title": "Good Samaritan", "description": "pay your taxes", "is_hidden": false, "category": "Silly"},
   "fact_enjoyer": {"title": "Fact Enjoyer", "description": "wow such good facts thanks record bot", "is_hidden": false, "category": "Silly"},
-  "morse_cat": {"title": "Morse", "description": ".. / .-- --- .-. ... .... .. .--. / -.-. .- -", "is_hidden": false, "category": "Silly"},
+  "morse_cat": {"title": "Sr. Morse", "description": "-. --- ... / .-.. .- ..- -.. --- / .-. . -.-. --- .-. -.. / -... --- -", "is_hidden": false, "category": "Silly"},
   "ttt_win": {"title": "Pro Tic-Tac-Toer", "description": "win a game of tic tac toe", "is_hidden": false, "category": "Silly"},
+  "last_sept": {"title": "Last September", "description": "Do you know who I was...? last September?","is_hidden": false, "category": "Silly"},
 
   "lucky": {"title": "Lucky", "description": "0.1% chance you get it each time you catch a cat", "is_hidden": true, "category": "Hard"},
   "gambling_two": {"title": "GOD DANGIT", "description": "gamble 50 times", "is_hidden": true, "category": "Hard"},
@@ -66,11 +67,7 @@
   "big_win_slots": {"title": "Hyper Lucky", "description": "get 777 at the /slots machine", "is_hidden": false, "category": "Hard"},
   "debt": {"title": "Debt Recovery", "description": "gamble away your debts", "is_hidden": false, "category": "Hard"},
 
-  "catn": {"title": "Cat'n", "description": "no cat??? :megamind:", "is_hidden": true, "category": "Hidden"},
-  "coupon_user": {"title": "Coupon User", "description": "use a coupon for a 10% discount on all cats!!!", "is_hidden": true, "category": "Hidden"},
   "dataminer": {"title": "Dataminer", "description": "say `cat!n4lltvuCOKe2iuDCmc6JsU7Jmg4vmFBj8G8l5xvoDHmCoIJMcxkeXZObR6HbIV6`", "is_hidden": true, "category": "Hidden"},
-  "blackhole": {"title": "Blackhole", "description": "WHERE THE FU ARE WE", "is_hidden": true, "category": "Hidden"},
   "cat_rain": {"title": "It's Raining Cats", "description": "participate in a cat rain", "is_hidden": true, "category": "Hidden"},
-
   "thanksforplaying": {"title": "Thanks For Playing", "description": "Complete the story", "is_hidden": false, "category": "Cat Hunt"}
 }
