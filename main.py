@@ -224,7 +224,7 @@ with open("config/battlepass.json", "r", encoding="utf-8") as f:
 ach_names = ach_list.keys()
 ach_titles = {value["title"].lower(): key for (key, value) in ach_list.items()}
 
-leaderboard_types = ["Cats", "Value", "Fast", "Slow", "Battlepass"]
+leaderboard_types = ["Artists", "Value", "Fast", "Slow", "Battlepass"]
 
 bot = commands.AutoShardedBot(
     command_prefix="this is a placebo bot which will be replaced when this will get loaded",
@@ -268,14 +268,14 @@ gen_credits = {}
 
 # due to some stupid individuals spamming the hell out of reactions, we ratelimit them
 # you can do 50 reactions before they stop, limit resets on global cat loop
-reactions_ratelimit = {}
+reactions_ratelimit = {50}
 
 # sort of the same thing but for pointlaughs and per channel instead of peruser
 pointlaugh_ratelimit = {}
 
 # cooldowns for /fake cat /catch
-catchcooldown = {}
-fakecooldown = {}
+catchcooldown = {10}
+fakecooldown = {0}
 
 # cat bot auto-claims in the channel user last ran /vote in
 # this is a failsafe to store the fact they voted until they ran that atleast once
