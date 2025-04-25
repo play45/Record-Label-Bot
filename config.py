@@ -1,7 +1,7 @@
 import os
 
 # discord bot token
-TOKEN = os.environ["MTM2NDM3NDQyMjg2NTE4Mjg0NA.G90uaN.VEyVf3z2hKGjBOBMqpJpCS-v2gH0h3Ctyb8zwI"]
+TOKEN = os.environ["TOKEN"]
 
 # database type
 # either SQLITE or POSTGRES
