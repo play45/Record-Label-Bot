@@ -1,14 +1,14 @@
 import os
 
 # discord bot token
-TOKEN = os.environ["TOKEN"]
+TOKEN = os.environ["MTM2NDM3NDQyMjg2NTE4Mjg0NA.G90uaN.VEyVf3z2hKGjBOBMqpJpCS-v2gH0h3Ctyb8zwI"]
 
 # database type
 # either SQLITE or POSTGRES
 DB_TYPE = "POSTGRES"
 
 # db pass if postgres (user is cat_bot), otherwise set to None
-DB_PASS = os.environ["psql_password"]
+DB_PASS = os.environ["cat_bot"]
 
 # channel id for db backups, private extremely recommended
 BACKUP_ID = 1060545763194707998
